@@ -1,5 +1,5 @@
 # vba-battleship
-## Classic battleship, built entirely in Excel using VBA.
+## Classic Battleship, built entirely in Excel using VBA.
 
 ### Why I did this
 >Look pal, VBA is a dinosaur. Everyone hates VBA and you should use something modern.
